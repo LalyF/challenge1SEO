@@ -1,39 +1,49 @@
-# 01 HTML CSS Git: Code Refactor
+# Horiseon Marketing Agency Website Code Refactor
 
-## Horiseon Marketing Agency Website
+This project is a code refactor of the Horiseon Marketing Agency website to ensure that it meets accessibility standards. The main objective of this refactor is to improve the codebase for search engines while maintaining the existing functionality of the website.
 
+## User Story
 
+As a marketing agency, we want a codebase that follows accessibility standards so that our own site is optimized for search engines.
 
-### User Story
+## Acceptance Criteria
 
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+The website must meet accessibility standards, which can be achieved by completing the following:
 
++ Semantic HTML elements can be found throughout the source code.
++ HTML elements follow a logical structure independent of styling and positioning.
++ Image and icon elements contain accessible alt attributes.
++ Heading attributes fall in sequential order.
++ Title elements contain a concise, descriptive title.
 
-### Acceptance Criteria
+## Changes Made
 
-Your website must meet accessibility standards. You can achieve this completing the following:
+The following changes were made to the codebase to meet the acceptance criteria:
 
-* Semantic HTML elements can be found throughout the source code
-* HTML elements follow a logical structure independent of styling and positioning
-* Image and icon elements contain accessible `alt` attributes
-* Heading attributes fall in sequential order
-* Title elements contain a concise, descriptive title
++ Replaced non-semantic HTML elements with semantic ones.
++ Updated the HTML structure to follow a logical order.
++ Added alt attributes to all images and icons.
++ Updated heading attributes to fall in sequential order.
++ Updated the title element to be concise and descriptive.
 
-### Resources:
-
-* [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
-* [Image `alt` attributes](https://www.w3schools.com/tags/att_img_alt.asp)
-
-### Mock-Up
+## Result
 
 The following image shows the web application's appearance and functionality:
-
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](Assets/01-html-css-git-challenge-demo.png)
-
-> **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
+![image-header&navbar](./assets/images/Horiseon1.jpg)
 
 
----
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+![cardswithtext](./assets/images/Horiseon2.jpg)
+
+The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.
+
+## Technologies Used
++ HTML
++ CSS
++ Git
+
+## Credits
+
+This project was completed as part of an edX Boot Camps LLC curriculum. The original codebase was provided by the curriculum, and the refactor was completed by Laly Firoze
+
+## License
+This project is licensed under the MIT License.
