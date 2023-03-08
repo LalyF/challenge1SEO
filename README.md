@@ -45,5 +45,10 @@ The Horiseon webpage includes a navigation bar, a header image, and cards with t
 
 This project was completed as part of an edX Boot Camps LLC curriculum. The original codebase was provided by the curriculum, and the refactor was completed by Laly Firoze
 
+## GitHub
+
+You can view the project on my repo 
+https://github.com/LalyF/challenge1SEO.git
+
 ## License
 This project is licensed under the MIT License.
